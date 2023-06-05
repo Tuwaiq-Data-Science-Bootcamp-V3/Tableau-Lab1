@@ -1,8 +1,6 @@
-# Tableau-Lab
+# Tableau Lab1 by Sultan Alharbi
 
 ### Build a Dashboard using the titanic dataset
-#### Dash must contain:
-- Three different charts
-- Filter
-- Dash design
-- publish Dash
+[Tableau Lab1 Dashboard by Sultan Alharbi](https://public.tableau.com/app/profile/sultan.alharbi5062/viz/TableauLab1DashboardbySultanAlharbi/TitanicDashboardbySultanAlharbi?publish=yes)
+
+
