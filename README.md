@@ -1,8 +1,3 @@
 # Tableau-Lab
-
-### Build a Dashboard using the titanic dataset
-#### Dash must contain:
-- Three different charts
-- Filter
-- Dash design
-- publish Dash
+## Majed solution ~~~
+### https://public.tableau.com/app/profile/majed.alshnifi/viz/majedsolution/Dashboard1?publish=yes
