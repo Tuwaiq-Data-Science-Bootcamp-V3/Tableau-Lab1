@@ -6,3 +6,7 @@
 - Filter
 - Dash design
 - publish Dash
+
+
+### Dahsboard Link:  
+https://public.tableau.com/app/profile/deema.abdullah/viz/TitanicDash_16859683537350/Dashboard1?publish=yes)
