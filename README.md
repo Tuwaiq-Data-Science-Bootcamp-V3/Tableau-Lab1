@@ -6,3 +6,6 @@
 - Filter
 - Dash design
 - publish Dash
+
+## Dashboard Link:
+[Tableu Lab1 Fai Alamri](https://public.tableau.com/app/profile/nier.nier/viz/TableuLab1_16859658586280/Dashboard2?publish=yes)
