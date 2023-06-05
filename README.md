@@ -6,3 +6,10 @@
 - Filter
 - Dash design
 - publish Dash
+
+
+
+
+The Link: 
+https://public.tableau.com/app/profile/najlaa.alsowayed/viz/TitanicAssignment_16859910508920/Dashboard1#1 
+
