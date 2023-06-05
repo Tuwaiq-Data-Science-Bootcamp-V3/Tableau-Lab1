@@ -7,4 +7,4 @@
 - Dash design
 - publish Dash
 
-[Link](https://public.tableau.com/views/TableauLab1_16859849102570/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Link](https://public.tableau.com/app/profile/norah.almuhaisen/viz/TableauLab1_16859849102570/Dashboard1?publish=yes)
