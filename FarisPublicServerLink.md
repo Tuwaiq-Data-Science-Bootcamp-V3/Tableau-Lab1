@@ -6,3 +6,4 @@
 - Filter
 - Dash design
 - publish Dash
+[Faris Tableau Dash board](https://public.tableau.com/app/profile/faris.alotibi/viz/FarisAlotibi/TitanicDash?publish=yes)
